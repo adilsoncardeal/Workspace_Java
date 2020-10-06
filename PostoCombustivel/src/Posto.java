@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Posto {
-	public static void main(String[] args) {
+	public static void main(String [] args) {
 		
 //		BombaDeCombustivel b1, b2;
 		

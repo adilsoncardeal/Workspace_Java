@@ -7,14 +7,15 @@ import model.QUESTAO;
 
 
 public class PROVA {
-	public static void main(String[] args) {
-		Scanner teclado = new Scanner (System.in);
+	public static void main(String [] args) {
+		
+		Scanner teclado = new Scanner(System.in);
 				
 		QUESTAO lista[];
 		lista = new QUESTAO[5];
 				
 		int cont;
-		int pontos = 0;
+		int pontos=0;
 		String resposta;
 					
 		
